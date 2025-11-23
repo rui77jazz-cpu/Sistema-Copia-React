@@ -1,0 +1,4 @@
+/* Importa todas as camadas base do Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
