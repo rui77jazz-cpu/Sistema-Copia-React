@@ -1,0 +1,15 @@
+import React from 'react';
+import SistemaCopia from './components/SistemaCopia';
+
+// Este é o componente principal que usa o seu SistemaCopia
+function App() {
+  return (
+    // Esta classe Tailwind garante que a aplicação ocupa toda a altura do ecrã
+    <div className="min-h-screen bg-gray-100 p-4">
+      {/* O seu componente de leitura dinâmica */}
+      <SistemaCopia />
+    </div>
+  );
+}
+
+export default App;
