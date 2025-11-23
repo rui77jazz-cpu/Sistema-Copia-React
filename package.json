@@ -1,0 +1,44 @@
+{
+  "name": "sistema-copia-react",
+  "version": "1.0.0",
+  "description": "Componente React de leitura dinâmica (speed reader) para treino de cópia/leitura.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "speed-reader",
+    "tailwind",
+    "education"
+  ],
+  "author": "ru77jazz-cpu",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "react-scripts": "5.0.1",
+    "tailwindcss": "^3.4.3",
+    "typescript": "^4.9.5"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
